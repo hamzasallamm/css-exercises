@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+#one{
+    background-color: black;
+    color: white;
+}/* Add CSS Styling */
+#two{
+    background-color: yellow;
+}
+button{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif;
+}
